@@ -9,7 +9,7 @@
 ## 使用方法
 以下のようにターミナルに記述してください。
 
-'python3 file-converter.py markdown inputfile outputfile'
+`python3 file-converter.py markdown inputfile outputfile`
 
 補足
 
